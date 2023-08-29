@@ -1,0 +1,172 @@
+:root { 
+  --cape-cod: #404040;
+  --cape-cod-2: #40404080;
+  --cultured-pearl: #f5f5f5;
+  --green-pea: #146043;
+  --mercury: #e3e3e3;
+  --picton-blue: #38beed;
+  --violet-eggplant: #9d1d96;
+  --white: #ffffff;
+ 
+  --font-size-l: 35px;
+  --font-size-m: 30px;
+  --font-size-s: 29px;
+  --font-size-xl: 45px;
+  --font-size-xs: 25px;
+  --font-size-xxl: 70px;
+  --font-size-xxs: 23px;
+ 
+  --font-family-dinnext_lt_arabic-bold: "DINNext LT Arabic-Bold", Helvetica;
+  --font-family-dinnext_lt_arabic-regular: "DINNext LT Arabic-Regular", Helvetica;
+}
+.dinnextltarabic-regular-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-white-23px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-green-pea-30px {
+  color: var(--green-pea);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-green-pea-22px {
+  color: var(--green-pea);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-bold-green-pea-29px {
+  color: var(--green-pea);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dinnextltarabic-bold-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dinnextltarabic-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dinnextltarabic-bold-cape-cod-29px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dinnextltarabic-bold-cape-cod-72px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dinnextltarabic-regular-normal-cape-cod-32px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-cape-cod-25px {
+  color: var(--cape-cod-2);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-white-45px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-bold-green-pea-70px {
+  color: var(--green-pea);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dinnextltarabic-regular-normal-cape-cod-35px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-green-pea-35px {
+  color: var(--green-pea);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-cape-cod-30px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-regular-normal-white-70px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dinnextltarabic-bold-white-70px {
+  color: var(--white);
+  font-family: var(--font-family-dinnext_lt_arabic-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
